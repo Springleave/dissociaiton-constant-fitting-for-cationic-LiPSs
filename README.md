@@ -1,2 +1,1 @@
-# study
-useful and scientific codes
+# MATLAB fitting function
